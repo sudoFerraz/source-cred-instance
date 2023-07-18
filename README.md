@@ -15,6 +15,7 @@ SourceCred is organized around "instances". Every instance must have a
 instance. Config and permanent data (e.g. the Ledger) are stored in the main branch.
 All output or site data gets stored in the `gh-pages` branch by the Github Action.
 
+
 Configuration files:
 
 - `config` has JSON files that will be hand-edited to configure your instance (more on this below).
