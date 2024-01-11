@@ -2,6 +2,7 @@ node_modules/
 site/
 output/
 cache/
+localGabriel/
 
 .env
 **/.DS_Store
